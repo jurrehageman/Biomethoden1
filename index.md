@@ -12,7 +12,7 @@
 ---
 
 ![Pic](./impression/impression.jpg)
-
+*<sub>Source: https://commons.wikimedia.org/wiki/File:Quattro_II_triple_quadropole_mass_spectrometer.jpg</sub>*
 ## Inhoud
 - [Opdrachten lessen](./opdrachten/opdrachten.md)
 - [Uitwerkingen lessen](./uitwerkingen/uitwerkingen.md)
