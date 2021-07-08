@@ -112,7 +112,7 @@ $Aantal\ moleculen\ in\ pen = \frac{3,29\cdot10^{21}}{\left(\frac{1}{0,3\cdot10^
 # Opgave 4
 
 Kallibratielijn doorrekenen.
-Zie Excel file.
+Zie [Excel file](./files/les1_uitwerkingen.xlsx).
 Tabblad `opgave 4`
 
 ---
@@ -120,7 +120,7 @@ Tabblad `opgave 4`
 # Opgave 5
 
 Kallibratielijn doorrekenen.
-Zie Excel file.
+Zie [Excel file](./files/les1_uitwerkingen.xlsx).
 Tabblad `opgave 5`
 
 ---
@@ -129,7 +129,7 @@ Tabblad `opgave 5`
 
 Opgave a:
 Kallibratielijn doorrekenen.
-Zie Excel file.
+Zie [Excel file](./files/les1_uitwerkingen.xlsx).
 Tabblad `opgave 6`
 
 Opgave b:
