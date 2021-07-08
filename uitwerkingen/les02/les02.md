@@ -47,7 +47,8 @@ $C_{monster}=\frac{54,5}{21,3}\cdot\frac{46,7}{35,5}\cdot5\ =\ 16,8\ ppm$
 
 ### Opgave 3
 
-Zie [Excel File](./files/les2_uitwerkingen.xlsx) voor deel a, b en c.
+Zie [Excel File](./files/les2_uitwerkingen.xlsx) voor deel a, b en c.  
+
 d.
 $100\ ppm = 100\ mg/kg = 100\ mg/l$
 Nodig: 250 ml = 0,25 l dus 25 mg
@@ -56,7 +57,7 @@ e.
 
 ---
 
-### Opgave 4 (NIET)
+### Opgave 4
 
 2 ml urine verdund met water tot 100 ml.
 25 ml monsteroplossing gemeten. A = 0,428
