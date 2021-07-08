@@ -4,6 +4,10 @@
 
 # Opdrachten les 1
 
+![Pic](./impression/impression.jpg)
+*<sub>Source: https://en.wikipedia.org/wiki/Laboratory#/media/File:GIRLS'_COUMTY_SCHOOL_LAB.jpg</sub>*
+
+
 ## 1.	Simpele molberekeningen
 Maak de volgende opdracht als introductie voor het berekenen van kalibratielijnen.
 
