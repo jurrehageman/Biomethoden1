@@ -37,7 +37,9 @@ c.	Hoeveel moleculen adrenaline zitten er in totaal in de EpiPen?
 Colchicine is een alkaloïde dat gehaald wordt uit de plant herfsttijloos. Deze alkaloïde wordt gebruikt als medicijn tegen jicht. Alleen is het grote nadeel hiervan dat het een erg kleine therapeutische range heeft. Dat betekent dat de concentratie van werkend en giftig erg dicht bij elkaar liggen. Daarom worden er serumanalyse uitgevoerd ter controle van een overdosis. Er moet een kalibratielijn gemaakt worden met minimaal 6 punten (inclusief blanco) met een maximale concentratie van 20 μM. De molmassa is 399,43 g/mol. Noteer een pipeteerschema (in cupjes van 1,5 mL), bepaal welke concentratie je stockoplossing en hoe je de stockoplossing gaat maken (Hoeveel moet je afwegen en in wat voor volume oplossen). 
 
 
-Stockoplossing = 
+Stockoplossing =  
+
+
 |Monster|Concentratie (eenheid)|Volume stock (eenheid)|Volume water (eenheid)|
 |:------|:---------------------|:---------------------|:---------------------|
 |A      |20 µM                 |                      |                      |
