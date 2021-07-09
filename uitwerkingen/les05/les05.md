@@ -87,6 +87,7 @@ De molaire extinctiecoëfficiënt is afhankelijk van de chemische matrix.
 Door pH veranderingen kan adenine geprotoneerd en gedeprotoneerd worden (net als bij aminozuren).  
 Zie [dit](https://refubium.fu-berlin.de/bitstream/handle/fub188/8054/04_chapter4.pdf?sequence=5&isAllowed=y) artikel.  
 
+
 ![protonering](./pics/fig1.png)  
 
 $pH = -log[H^+]$  
