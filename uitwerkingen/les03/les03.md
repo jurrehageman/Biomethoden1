@@ -14,7 +14,9 @@ $t_M = 0,46\ min$
 $t_R\ component\ a = t_{Ra} = 5\ min$  
 $t_R\ component\ b = t_{Rb} = 12,2\ min$  
 $t'_R = t_R - t_M$  
+Dus:  
 $t'_{Ra} = 5 - 0,46 = 4,54\ min$  
+en  
 $t'_{Rb} = 12,2 - 0,46 = 11,74\ min$  
 
 #### opgave b:
