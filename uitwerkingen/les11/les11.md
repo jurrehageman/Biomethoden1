@@ -7,20 +7,20 @@
 ---
 
 ### Opgave 1
-De volgende m/z ratio's zijn gevonden:
-631.9, 684.0, 745.5 en 819.7
-Laagste 3 waarden bepalen:
-631.9, 684.0, 745.5
-dus:
-m2 = 819,7
-m1 - 1 bepalen
-m2 - m1 bepalen
-$n_2$ bepalen:
+De volgende m/z ratio's zijn gevonden:  
+631.9, 684.0, 745.5 en 819.7  
+Laagste 3 waarden bepalen:  
+631.9, 684.0, 745.5  
+dus:  
+m2 = 819,7  
+m1 - 1 bepalen  
+m2 - m1 bepalen  
+$n_2$ bepalen:  
 
-$n_2 = \frac{m_1-1}{m_2-m_1}$
-$M_w= n_2 \cdot (m_2-1)$
-Zie de Excel sheet.
-De uitkomst staat ook hieronder:
+$n_2 = \frac{m_1-1}{m_2-m_1}$  
+$M_w= n_2 \cdot (m_2-1)$  
+Zie de [Excel sheet](./files/les11_uitwerkingen.xlsx).
+De uitkomst staat ook hieronder:  
 
 |m/z	|m1-1	|m2-m1	|$n_2$	 |z	 |m2-1	|Mw (Da)|
 |-------|-------|-------|----|---|-------|-------|
@@ -30,19 +30,19 @@ De uitkomst staat ook hieronder:
 |631,9  |630,9  |52,1   |12,1|12 |683	 |8270,7 |
 
 
-De z-waarde `9` is er bij geplaatst omdat de z waarde een oplopende sequentie heeft. 
+De z-waarde `9` is er bij geplaatst omdat de z waarde een oplopende sequentie heeft.  
 
-De gemiddelde $M_w$ waarde is:
+De gemiddelde $M_w$ waarde is:  
 
-$\overline {M_w}= \frac{8214,6 + 8268,2 + 8270,7}{3} = 8251,2 \ Da$
+$\overline {M_w}= \frac{8214,6 + 8268,2 + 8270,7}{3} = 8251,2 \ Da$  
 
 ---
 
 ### Opgave 2
 
 
-Eerst de Y-fragmenten bij elkaar zoeken:
-Zie ook de Excel file.
+Eerst de Y-fragmenten bij elkaar zoeken:  
+Zie ook de Excel file.  
 
 |y-fragement	|m/z	|$\Delta$ m/z|aminozuur  |
 |---------------|-------|------------|-----------|
@@ -50,68 +50,68 @@ Zie ook de Excel file.
 |               |       |?           |?          |
 |y2	            |241,2  |            |           |
 |               |       |114         |N          |
-|y3	            |355,2  |	         |           |
+|y3	            |355,2  |            |           |
 |               |       |99,1        |V          |
 |y4	            |454,3  |            |           |
 |               |       |99,1        |V          |
-|y5	            |553,4  |	         |           |
+|y5	            |553,4  |            |           |
 |               |       |            |?          |
 |y6             |?      |            |           |
 |               |       |            |?          |
 |y7	            |755,4  |            |	         |
 |               |       |97,1        |P          |
-|y8	            |852,5  |	         |           |
+|y8	            |852,5  |	           |           |
 
-Let op dat y6 mist.
-We weten alleen dat $\Delta m/z$ voor y7 - y5 = 220.
+Let op dat y6 mist.  
+We weten alleen dat $\Delta m/z$ voor y7 - y5 = 220.  
 
-We weten daarnaast ook de $\Delta m/z$ voor b7-b6:
-$\Delta m/z _{\ b7-b6} = 667,5 - 553,5 = 114$
-114 komt overeen met N
-Dit klopt met y2-y3. Deze was ook 114.
+We weten daarnaast ook de $\Delta m/z$ voor b7-b6:  
+$\Delta m/z _{\ b7-b6} = 667,5 - 553,5 = 114$  
+114 komt overeen met N  
+Dit klopt met y2-y3. Deze was ook 114.  
 
-Deze kunnen we invullen:
+Deze kunnen we invullen:  
 
 |y-fragement|m/z  |$\Delta$ m/z|aminozuur|$\Delta$ m/z|m/z  |b-fragment|
 |-----------|-----|------------|---------|------------|-----|----------|
 |y1         |?    |?           |         |            |     |b8        |
 |           |     |            |?        |            |     |          |
-|y2	        |241,2|	           |	     |            |667,5|b7        |
+|y2	        |241,2|            |         |            |667,5|b7        |
 |           |     |114         |N        |114         |     |          |
-|y3	        |355,2|	           |	     |            |553,5|b6        |
+|y3	        |355,2|	           |         |            |553,5|b6        |
 |           |     |99,1        |V        |            |     |          |
-|y4	        |454,3|	           |	     |            |     |b5        |
+|y4	        |454,3|	           |         |            |     |b5        |
 |           |     |99,1        |V        |            |     |          |
 |y5	        |553,4|	           |         |            |     |b4        |
 |           |     |            |?        |            |     |          |
 |y6         |?    |            |         |            |b3   |          |
 |           |     |            |?        |            |     |          |
-|y7	        |755,4|	           |	     |            |b2   |          |
+|y7	        |755,4|	           |         |            |b2   |          |
 |           |     |97,1        |P        |            |     |          |
 |y8	        |852,5|	           |         |            |b1   |          |
 
-Verder weten we:
-We weten alleen dat $\Delta m/z$ voor y7 - y5 = 220.
+Verder weten we:  
+We weten alleen dat $\Delta m/z$ voor y7 - y5 = 220.  
 
-Kijken wat past (puzzelen)
-Welke twee aminozuren zijn samen 220 Da?
-Of met computer programmatje (hoef je uiteraard niet te kunnen):
+Kijken wat past (puzzelen)  
+Welke twee aminozuren zijn samen 220 Da?  
+Of met computer programmatje (hoef je uiteraard niet te kunnen):  
 
-![polarity](./pics/fig1.PNG)
+![polarity](./pics/fig1.PNG)  
 
-De meest waarschijnlijke mogelijkheden zijn dus (voor deze cutoff):
+De meest waarschijnlijke mogelijkheden zijn dus (voor deze cutoff):  
 
-D en S
-S en D
+D en S  
+S en D  
 
-Dus sequentie peptide is:
+Dus sequentie peptide is:  
 
-?NVV[S/D][S/D]P
+?NVV[S/D][S/D]P  
 
-Maar let op dat dit van C-terminus naar N-terminus is.
-De regel is dat we de sequentie noteren van N-terminus naar C-terminus dus:
+Maar let op dat dit van C-terminus naar N-terminus is.  
+De regel is dat we de sequentie noteren van N-terminus naar C-terminus dus:  
 
-P[S/D][S/D]VVN?
+P[S/D][S/D]VVN?  
 
 ---
 
