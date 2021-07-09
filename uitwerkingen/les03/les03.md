@@ -11,8 +11,7 @@ $L_k = 15,7\ cm$
 $t_M = 0,46\ min$  
 
 #### opgave a:
-$t_R\ component\ a = t_{Ra} = 
-5\ min$  
+$t_R\ component\ a = t_{Ra} = 5\ min$  
 $t_R\ component\ b = t_{Rb} = 12,2\ min$  
 $t'_R = t_R - t_M$  
 $t'_{Ra} = 5 - 0,46 = 4,54\ min$  
@@ -134,7 +133,7 @@ $L = {R_s}^2$
 
 Met verhoudingen werken:  
 
-$\frac {L_1}{L_2} = \frac{{R_{S1}}^2}{{R_{S2}}^2}$  
+$\frac{L_1}{L_2} = \frac{{R_{S1}}^2}{{R_{S2}}^2}$  
 
 $\frac {31,8}{L_2} = \frac{2,73^2}{1,5^2}$  
 
