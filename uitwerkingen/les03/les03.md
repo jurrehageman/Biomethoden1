@@ -135,7 +135,7 @@ $L = {R_s}^2$
 
 Met verhoudingen werken:  
 
-$\frac{L_1}{L_2} = \frac{{R_{S1}}^2}{{R_{S2}}^2}$  
+$\frac{L_1}{L_2} = \frac{{R_{S1}^2}}{{R_{S2}^2}}$  
 
 $\frac {31,8}{L_2} = \frac{2,73^2}{1,5^2}$  
 
