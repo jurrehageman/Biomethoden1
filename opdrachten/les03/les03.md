@@ -2,7 +2,7 @@
 
 [Terug naar de hoofdpagina opdrachten](../opdrachten.md)
 
-# Opdrachten les 
+# Opdrachten les 3
 
 ![Pic](./impression/impression.jpg)
 *<sub>Source: https://en.wikipedia.org/wiki/High-performance_liquid_chromatography#/media/File:Nano-LC_-_(1).jpg</sub>*
