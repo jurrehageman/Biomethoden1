@@ -88,7 +88,7 @@ Door pH veranderingen kan adenine geprotoneerd en gedeprotoneerd worden (net als
 Zie [dit](https://refubium.fu-berlin.de/bitstream/handle/fub188/8054/04_chapter4.pdf?sequence=5&isAllowed=y) artikel.  
 
 
-![protonering](./pics/fig1.png)  
+![protonering](./pics/fig1.PNG)  
 
 $pH = -log[H^+]$  
 Bij 0,1 M HCl:  
