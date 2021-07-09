@@ -179,7 +179,7 @@ Niet lineair is fluorine. Deze piek vertoont tailing.
 Helium: Cs uitgezet als functie van Cm:  
 Lijn loopt recht. Geen voorkeur.  
 
-![image info](./pics/fig1.PNG)  
+![image info](./pics/fig1.png)  
 
 Fluorine: Cs uitgezet als functie van Cm:  
 Lijn loopt convex. Voorkeur voor stationaire fase.  
