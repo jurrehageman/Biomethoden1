@@ -13,63 +13,63 @@ $t_M = 0,46\ min$
 #### opgave a:
 $t_R\ component\ a = t_{Ra} = 
 5\ min$  
-$t_R\ component\ b = t_{Rb} = 12,2\ min$
-$t'_R = t_R - t_M$
-$t'_{Ra} = 5 - 0,46 = 4,54\ min$
-$t'_{Rb} = 12,2 - 0,46 = 11,74\ min$
+$t_R\ component\ b = t_{Rb} = 12,2\ min$  
+$t'_R = t_R - t_M$  
+$t'_{Ra} = 5 - 0,46 = 4,54\ min$  
+$t'_{Rb} = 12,2 - 0,46 = 11,74\ min$  
 
 #### opgave b:
 
 
-$𝑘^′=\frac{𝑡_𝑅−𝑡_𝑀}{𝑡_𝑀} = \frac{𝑡′_𝑅}{𝑡_𝑀}$ 
-dus:
-Voor component a:
-$𝑘′_a=\frac{5−0,46}{0,46} = \frac{5}{0,46} = 9,87$
-Voor component b:
-$𝑘′_b=\frac{12,2−0,46}{0,46} = \frac{11,74}{0,46} = 25,52$
+$𝑘^′=\frac{𝑡_𝑅−𝑡_𝑀}{𝑡_𝑀} = \frac{𝑡′_𝑅}{𝑡_𝑀}$  
+dus:  
+Voor component a:  
+$𝑘′_a=\frac{5−0,46}{0,46} = \frac{5}{0,46} = 9,87$  
+Voor component b:  
+$𝑘′_b=\frac{12,2−0,46}{0,46} = \frac{11,74}{0,46} = 25,52$  
 
 #### opgave c:
-$\alpha =\frac{(𝑡_𝑅)_𝐵−𝑡_𝑀}{(𝑡_𝑅 )_𝐴−𝑡_𝑀}$
-dus:
-$\alpha =\frac{(𝑡_𝑅)_𝐵−𝑡_𝑀}{(𝑡_𝑅 )_𝐴−𝑡_𝑀} = \frac{(t'_R)_B}{(t'_R)_A} = \frac{k' _B}{k'_A} = \frac{25,5}{9,87} = 2,59$
+$\alpha =\frac{(𝑡_𝑅)_𝐵−𝑡_𝑀}{(𝑡_𝑅 )_𝐴−𝑡_𝑀}$  
+dus:  
+$\alpha =\frac{(𝑡_𝑅)_𝐵−𝑡_𝑀}{(𝑡_𝑅 )_𝐴−𝑡_𝑀} = \frac{(t'_R)_B}{(t'_R)_A} = \frac{k' _B}{k'_A} = \frac{25,5}{9,87} = 2,59$  
 
 #### opgave d:
 Omzetten van een fysieke afstand op papier (in cm) naar tijd (in min)
-$10\ min = 4,9\ cm$ 
+$10\ min = 4,9\ cm$  
 
->let op: deze waarde kan verschillen van jouw opgemeten waarden maar de verhouding blijft altijd gelijk!
+>let op: deze waarde kan verschillen van jouw opgemeten waarden maar de verhouding blijft altijd gelijk!  
 
 Gemeten:
-$W_A = 2,1\ cm$
-$W_B = 2,0\ cm$
-dus:
-$W_A = \frac{10 \cdot 2,1}{4,9} = 4,29\ min$
-$W_B = \frac{10 \cdot 2,0}{4,9} = 4,08\ min$
+$W_A = 2,1\ cm$  
+$W_B = 2,0\ cm$  
+dus:  
+$W_A = \frac{10 \cdot 2,1}{4,9} = 4,29\ min$  
+$W_B = \frac{10 \cdot 2,0}{4,9} = 4,08\ min$  
 
 #### opgave e:
-$𝑁=16\cdot\left(\frac{𝑡_𝑅}{𝑊}\right)^2$
-Voor component A:
-$𝑁_A=16\cdot\left(\frac{𝑡_𝑅}{𝑊}\right)^2 = 16 \cdot \frac{5}{4,29} = 21$
-Voor component B:
-$𝑁_B=16\cdot\left(\frac{𝑡_𝑅}{𝑊}\right)^2 = 16 \cdot \frac{12}{4,08} = 138$
-Gemiddeld aantal schotels:
-$\overline N = \frac{21 + 138}{2} = 79\ schotels$
+$𝑁=16\cdot\left(\frac{𝑡_𝑅}{𝑊}\right)^2$  
+Voor component A:  
+$𝑁_A=16\cdot\left(\frac{𝑡_𝑅}{𝑊}\right)^2 = 16 \cdot \frac{5}{4,29} = 21$  
+Voor component B:  
+$𝑁_B=16\cdot\left(\frac{𝑡_𝑅}{𝑊}\right)^2 = 16 \cdot \frac{12}{4,08} = 138$  
+Gemiddeld aantal schotels:  
+$\overline N = \frac{21 + 138}{2} = 79\ schotels$  
 
 #### opgave f:
 
-Aantal schotels per meter:
-$N_{per\ meter} = \frac{N}{l (m)} = \frac{79}{0,157} = 503\ schotels/m$
+Aantal schotels per meter:  
+$N_{per\ meter} = \frac{N}{l (m)} = \frac{79}{0,157} = 503\ schotels/m$  
 
 #### opgave g:
 
-Gemiddelde Schotel hoogte:
-$H = \frac{L}{\overline N} = \frac{15,7}{79} = 0,199\ cm$
+Gemiddelde Schotel hoogte:  
+$H = \frac{L}{\overline N} = \frac{15,7}{79} = 0,199\ cm$  
 
 #### opgave h:
 
 Resolutie:  
 
-$R_S = \frac{2 \cdot (t_{R,B} - t_{R,A})}{W_A + W_B} = \frac{2 \cdot (12,2 - 5)}{4,29 + 4,08} = 1,72$
+$R_S = \frac{2 \cdot (t_{R,B} - t_{R,A})}{W_A + W_B} = \frac{2 \cdot (12,2 - 5)}{4,29 + 4,08} = 1,72$  
 
 ---
 
@@ -77,25 +77,25 @@ $R_S = \frac{2 \cdot (t_{R,B} - t_{R,A})}{W_A + W_B} = \frac{2 \cdot (12,2 - 5)}
 
 #### opgave a, b en c:
 
-Zie Excel file
+Zie [Excel file](./files/les3_uitwerkingen.xlsx) 
 
 #### opgave d:
 
-$\overline N = \frac{1024 + 435 + 355 + 238}{4}=513$
+$\overline N = \frac{1024 + 435 + 355 + 238}{4}=513$  
 
 #### opgave e:
-Aantal schotels per meter:
-$N_{per\ meter} = \frac{N}{l (m)} = \frac{513}{0,35} = 1466\ schotels/m$
+Aantal schotels per meter:  
+$N_{per\ meter} = \frac{N}{l (m)} = \frac{513}{0,35} = 1466\ schotels/m$  
 
 #### opgave f:
 
-$\overline H = \frac{L}{N}=\frac{0,35}{513}=0.00068\ m=0,68\ mm$
+$\overline H = \frac{L}{N}=\frac{0,35}{513}=0.00068\ m=0,68\ mm$  
 
 #### opgave g:
 
-$R_S = \frac{2 \cdot (t_{R,B} - t_{R,A})}{W_A + W_B}$
+$R_S = \frac{2 \cdot (t_{R,B} - t_{R,A})}{W_A + W_B}$  
 
-Zie Excel file
+Zie [Excel file](./files/les3_uitwerkingen.xlsx)  
 
 ---
 
