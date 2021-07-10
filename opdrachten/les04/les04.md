@@ -9,7 +9,11 @@
 
 ---
 
-Test
+## 1. Polariteit van componenten 
+
+Vul de onderstaande schema in. 
+
+ 
 
 ---
 
