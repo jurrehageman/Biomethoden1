@@ -13,9 +13,38 @@
 
 Vul de onderstaande schema in. 
 
+![Figure 1](./pics/fig1.png)
  
+---
+
+## 2.Keuze soort chromatografie
+Met welke soort vloeistofchromatografie zou je de onderstaande analyses meten?
+
+a.Zuivering van eiwitten
+b.Analyse van bestandsdelen in Cola
+c.Zuivering van medicijnen
+d.Zuivering van polystyreen in oplossingen
+e.Fractionering van aminozuren
+f.Scheiden van eiwitten in de molmassa range 60 – 65 kDa
 
 ---
+
+## 3.Optimalisatie van de scheiding
+Hieronder staan de structuurformules van drie geconjugeerde oestrogenen (steroïden)	
+
+![Figure 2](./pics/fig2.png)
+
+
+a. De samenstelling van tabletten die deze oestrogenen bevatten (‘de pil’), kan worden bepaald na scheiding van de bestanddelen op een HPLC kolom. Leg uit, aan de hand van de verschillen tussen de gegeven structuurformules, welke LC kolom jij aanraadt voor de beste scheiding.
+
+b. De chromatogrammen i en ii (langs de x-as staat k’ vermeld!) zijn verkregen door elutie van een standaardmengsel oestrogenen op een C18-bonded phase kolom met water/ methanol mengsels van verschillende samenstelling als mobiele fase. Leg uit welk chromatogram is verkregen met de volumeverhouding CH3OH/H2O = 35 : 65 en welke met de volumeverhouding CH3OH/H2O = 20 : 80. (gebruik in je uitleg het begrip selectiviteit van het fasensysteem).
+
+![Figure 3](./pics/fig3.png)
+
+---
+
+
+
 
 [Terug naar de hoofdpagina opdrachten](../opdrachten.md)
 
