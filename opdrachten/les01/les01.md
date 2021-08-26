@@ -77,7 +77,31 @@ a.	Geef een pipeteerschema voor de 5 standaarden.
 b.	Minimaal kun je 1 mg afwegen op een vijf-decimalen balans. Je kunt daarom niet recht-streeks 0.2 mg afwegen. Hoe zou je de stockoplossing maken?
 
 
-## Test
+# test
+
+## 1. test
+
+- item 1
+- item 2
+- item 3
+
+
+1. item 1
+2. item 2
+3. item 3
+
+
+**vet**
+*italic*
+
+gewoon text  
+enter
+
+link naar [wikipedia](https://en.wikipedia.org/wiki/Boom)
+
+
+
+
 
 [Terug naar de hoofdpagina opdrachten](../opdrachten.md)
 
