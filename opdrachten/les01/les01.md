@@ -100,7 +100,16 @@ enter
 link naar [wikipedia](https://en.wikipedia.org/wiki/Boom)
 
 
+deelsom
 
+$\frac{x}{y} \cdot X_1 X^1$
+
+$\sqrt{x}$
+
+$C_6H_{12}O_6 \rightarrow 6CO_2 \ + \ 6H_2O$
+
+$\lambda=\frac{16}{2}$
+$N=16\cdot(\frac{t_r}{W_{1/2}})^2$
 
 
 [Terug naar de hoofdpagina opdrachten](../opdrachten.md)
