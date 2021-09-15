@@ -125,7 +125,7 @@ dus:
 $\frac{69,6424\ mg}{100\ ml} = 696,424\ mg/l$  
 De $25\ g$ steen is compleet opgelost in $100\ ml$  
 dus:  
-$69,6424\ mg/100\ ml$ dus $69,6424\ mg/25\ gram steen$  
+$69,6424\ mg/100\ ml$ dus $69,6424\ mg/25\ gram\ steen$  
 De steen bevat daarom $0,06964\ g$ ofwel $69,64\ mg$ mangaan.  
 
 
