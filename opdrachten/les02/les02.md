@@ -33,21 +33,21 @@ De concentratie natrium bepaald met lithium (1000 ppm) als interne standaard. De
 |10,0           |9,5           |73            |
 |Monster        |4,4           |95            |
 
-a.	Bepaal de concentratie natrium in het monster met behulp van een externe kalibratielijn.
-b.	Bepaal de concentratie natrium in het monster met behulp van een interne kalibratielijn
-c.	Geef een pipeteerschema en de concentratie van de stock-oplossing voor deze kalibratielijn
-d.	De natriumstandaard wordt gemaakt met NaCl, bereken hoeveel je moet afwegen om 250 mL te maken.
-e.	Heb je voor deze lijn een pre-stock nodig? Minder dan 50 mg kun je niet nauwkeurig afwegen op een 4 decimalen balans.
+a.	Bepaal de concentratie natrium in het monster met behulp van een externe kalibratielijn.  
+b.	Bepaal de concentratie natrium in het monster met behulp van een interne kalibratielijn.  
+c.	Geef een pipeteerschema en de concentratie van de stock-oplossing voor deze kalibratielijn.  
+d.	De natriumstandaard wordt gemaakt met NaCl, bereken hoeveel je moet afwegen om 250 mL te maken.  
+e.	Heb je voor deze lijn een pre-stock nodig? Minder dan 50 mg kun je niet nauwkeurig afwegen op een 4 decimalen balans.  
 
 
 ## 4. Standaard additie 1
-Bij een methode waar de fosfaatconcentratie in urine wordt bepaald, wordt gebruik gemaakt van standaardadditie. De opwerking is erg simpel: 2 ml urine wordt verdund met water tot 100 mL.
+Bij een methode waar de fosfaatconcentratie in urine wordt bepaald, wordt gebruik gemaakt van standaardadditie. De opwerking is erg simpel: 2 ml urine wordt verdund met water tot 100 mL.  
 25 mL monsteroplossing wordt gelijk gemeten met een UV spectrometer en de absorptie is 0,428. Daarnaar wordt aan 25 mL monster nog 1 mL 0,05 mg  fosfaatoplossing toegevoegd. Deze oplos-sing geeft een absorptie van 0,517.
 
 Bereken de concentratie fosfaat in urine.
 
 
-## 5. 5.	Standaard additie 2
+## 5. Standaard additie 2
 Onderstaande opdracht is een oude proef uit thema 5. Maak met de data en gegevens de opdrachten. De data kun je ook vinden als excel file op BB
 
 Inleiding
@@ -57,9 +57,9 @@ Monsteropwerking
 Weeg ongeveer 5 gram ossenworst of filet americain nauwkeurig af en vul aan tot 200 ml extractie buffer. Breng het extract over in een stomacher. Kneed met de stomacher 2 keer 1 minuut en laat 10 minuten staan bij kamertemperatuur.
 
 IJklijn
-Standaard: weeg ongeveer 150 mg natriumnitriet nauwkeurig af en los op in 100 ml demiwater in een maatkolf. Verdun vervolgens deze stock oplossing 100x in een maatkolf met demiwater.
-Pipetteer 1 ml monster extract in 14 glazen reageerbuizen. Voeg aan deze buizen standaard toe (in duplo).
-Pipetteer daarvoor:  0 - 0.025 – 0.050 – 0.100 – 0.200 - 0.400 en 0.800 ml standaardoplossing in de reageerbuizen. Vul aan tot 9.5 ml met demiwater (bereken dat precies). Voeg 0.5 ml Griess-Romijn-van-Eck reagens toe en vortex kort.
+Standaard: weeg ongeveer 150 mg natriumnitriet nauwkeurig af en los op in 100 ml demiwater in een maatkolf. Verdun vervolgens deze stock oplossing 100x in een maatkolf met demiwater.  
+Pipetteer 1 ml monster extract in 14 glazen reageerbuizen. Voeg aan deze buizen standaard toe (in duplo).  
+Pipetteer daarvoor:  0 - 0.025 – 0.050 – 0.100 – 0.200 - 0.400 en 0.800 ml standaardoplossing in de reageerbuizen. Vul aan tot 9.5 ml met demiwater (bereken dat precies). Voeg 0.5 ml Griess-Romijn-van-Eck reagens toe en vortex kort.  
 
 - Meet na 30 minuten de extinctie van de buizen bij 520 nm  
 
@@ -82,15 +82,15 @@ Pipetteer daarvoor:  0 - 0.025 – 0.050 – 0.100 – 0.200 - 0.400 en 0.800 ml
 
 
 **Opdrachten:**
-1.	Bereken de concentratie (molariteit) van de standaardoplossingen en maak een ijklijn.
-2.	Bereken de concentratie (mmol/L) nitriet in het monster. 
-3.	Bereken hoeveel je van het monster per dag zou mogen binnenkrijgen. De acceptabele dagelijkse inname bedraagt tot 0.06 mg nitriet/kg lichaamsgewicht. 
+1.	Bereken de concentratie (molariteit) van de standaardoplossingen en maak een ijklijn.  
+2.	Bereken de concentratie (mmol/L) nitriet in het monster.  
+3.	Bereken hoeveel je van het monster per dag zou mogen  binnenkrijgen. De acceptabele dagelijkse inname bedraagt tot 0.06 mg nitriet/kg lichaamsgewicht. 
 
 
 ## 6. Standaard additie 3
-Hieronder staat de standaard additie kalibratielijn voor een kwantitatieve analyse van mangaan in een bepaald gesteente. 25 gram steen werd opgelost in 100 ml oplosmiddel. Hieruit is 2 ml geneu-traliseerd in 200 ml $H_2O$ tot het gebruikte monster. Elke kolf bevat 25 ml van het monster en 0; 1,00; 2,00; 3,00; 4,00 en 5,00 ml van een 100,6 mg/l standaard $Mn^{2+}$. Alle kolven zijn aangevuld tot 50,00 ml. 
-$S_{spike}$ = signaal 
-$V_{std}$ = volume van standaard in elk monster 
+Hieronder staat de standaard additie kalibratielijn voor een kwantitatieve analyse van mangaan in een bepaald gesteente. 25 gram steen werd opgelost in 100 ml oplosmiddel. Hieruit is 2 ml geneu-traliseerd in 200 ml $H_2O$ tot het gebruikte monster. Elke kolf bevat 25 ml van het monster en 0; 1,00; 2,00; 3,00; 4,00 en 5,00 ml van een 100,6 mg/l standaard $Mn^{2+}$. Alle kolven zijn aangevuld tot 50,00 ml.   
+$S_{spike}$ = signaal  
+$V_{std}$ = volume van standaard in elk monster  
 De vergelijking van de regressielijn:  
 y = 0,0854x + 0,1478
 
