@@ -20,12 +20,12 @@ Vul de onderstaande schema in.
 ## 2.Keuze soort chromatografie
 Met welke soort vloeistofchromatografie zou je de onderstaande analyses meten?
 
-a.Zuivering van eiwitten
-b.Analyse van bestandsdelen in Cola
-c.Zuivering van medicijnen
-d.Zuivering van polystyreen in oplossingen
-e.Fractionering van aminozuren
-f.Scheiden van eiwitten in de molmassa range 60 – 65 kDa
+a.Zuivering van eiwitten  
+b.Analyse van bestandsdelen in Cola  
+c.Zuivering van medicijnen  
+d.Zuivering van polystyreen in oplossingen  
+e.Fractionering van aminozuren  
+f.Scheiden van eiwitten in de molmassa range 60 – 65 kDa  
 
 ---
 
