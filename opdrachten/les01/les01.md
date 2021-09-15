@@ -11,30 +11,31 @@
 ## 1.	Simpele molberekeningen
 Maak de volgende opdracht als introductie voor het berekenen van kalibratielijnen.
 
-a.	Hoeveel gram paracetamol $(C_8H_9NO_2)$ bevat evenveel moleculen als 1,0 gram aspirine (aspirine = $C_9H_8O_4$)?
+a.	Hoeveel gram paracetamol $(C_8H_9NO_2)$ bevat evenveel moleculen als 1,0 gram aspirine (aspirine = $C_9H_8O_4$)?  
 
-b.	Bij fotosynthese in planten wordt $CO_2$ omgezet in glucose ($C_6H_{12}O_6$). Hierbij wordt water ge-bruikt en ontstaat behalve glucose ook zuurstof. 
-1) Geef de reactievergelijking voor fotosynthese.
-2) Hoeveel gram glucose kan er ontstaan wanneer je 1,0 mol $CO_2$ en 1,0 mol $H_2O$ tot je beschikking hebt?
+b.	Bij fotosynthese in planten wordt $CO_2$ omgezet in glucose ($C_6H_{12}O_6$). Hierbij wordt water ge-bruikt en ontstaat behalve glucose ook zuurstof.  
+1) Geef de reactievergelijking voor fotosynthese.  
+2) Hoeveel gram glucose kan er ontstaan wanneer je 1,0 mol $CO_2$ en 1,0 mol $H_2O$ tot je beschikking hebt?  
 
-c.	Hoeveel zout moet er worden afgewogen voor 100 mL 20 mM $NaCl$ oplossing?
+c.	Hoeveel zout moet er worden afgewogen voor 100 mL 20 mM $NaCl$ oplossing?  
 
 
 ## 2.	Complexere molberekening 1
-Ricine is een stof die voornamelijk bekend staat als vergif. Het is een eiwit dat bestaat uit macromoleculen met een molecuulmassa van 60000 a.m.e. (u). Elk molecuul omvat twee deelketens A en B genaamd, waarvan de ene zich aan de bestanddelen van de celwand hecht en zorgt dat de stof in een cel wordt opgenomen, terwijl de andere keten een cel - die een ricine molecuul heeft opgenomen - deactiveert om eiwitten te synthetiseren, waardoor de cel sterft. Zelfs in kleine hoeveelheden is ricine in zuivere toestand dodelijk. Ons lichaam bevat ca. $10^{12}$ cellen.
+Ricine is een stof die voornamelijk bekend staat als vergif. Het is een eiwit dat bestaat uit macromoleculen met een molecuulmassa van 60000 a.m.e. (u). Elk molecuul omvat twee deelketens A en B genaamd, waarvan de ene zich aan de bestanddelen van de celwand hecht en zorgt dat de stof in een cel wordt opgenomen, terwijl de andere keten een cel - die een ricine molecuul heeft opgenomen - deactiveert om eiwitten te synthetiseren, waardoor de cel sterft. Zelfs in kleine hoeveelheden is ricine in zuivere toestand dodelijk. Ons lichaam bevat ca. $10^{12}$ cellen.  
 
-Bereken welk percentage van deze cellen (in principe) kan worden vernietigd door 0,30 mg ricine indien 1 op de miljoen ricinemoleculen er in slaagt een cel binnen te dringen.
+Bereken welk percentage van deze cellen (in principe) kan worden vernietigd door 0,30 mg ricine indien 1 op de miljoen ricinemoleculen er in slaagt een cel binnen te dringen.  
 
 ## 3.	Complexere molberekening 2
-Sommige mensen zijn zeer allergisch voor bijvoorbeeld een geneesmiddel, pinda’s of bijengif. Wan-neer deze mensen blootgesteld worden aan zeer kleine hoeveelheden van deze stof, kunnen ze direct zeer ernstige klachten ontwikkelen, die levensbedreigend zijn. Daarom dragen deze mensen soms een EpiPen bij zich. In de EpiPen zit adrenaline, dat de effecten van de allergie tegen gaat. Bij een allergi-sche reactie wordt de adrenaline in een spier in het been gespoten. 
-In de EpiPen zit 0,300 ml van een oplossing met 1,00 mg/ml adrenaline. De structuurformule van adrenaline is $C_9H_{13}NO_3$. 
+Sommige mensen zijn zeer allergisch voor bijvoorbeeld een geneesmiddel, pinda’s of bijengif. Wan-neer deze mensen blootgesteld worden aan zeer kleine hoeveelheden van deze stof, kunnen ze direct zeer ernstige klachten ontwikkelen, die levensbedreigend zijn. Daarom dragen deze mensen soms een EpiPen bij zich. In de EpiPen zit adrenaline, dat de effecten van de allergie tegen gaat. Bij een allergi-sche reactie wordt de adrenaline in een spier in het been gespoten.  
+In de EpiPen zit 0,300 ml van een oplossing met 1,00 mg/ml adrenaline.  
+De structuurformule van adrenaline is: $C_9H_{13}NO_3$.  
 Gegeven: $NA\ =\ 6,022\cdot10^{23}$.  
 
-a.	Bereken de molmassa van adrenaline.
+a.	Bereken de molmassa van adrenaline.  
 
-b.	Wat is de molariteit van de oplossing die in de EpiPen zit? 
+b.	Wat is de molariteit van de oplossing die in de EpiPen zit?  
 
-c.	Hoeveel moleculen adrenaline zitten er in totaal in de EpiPen?
+c.	Hoeveel moleculen adrenaline zitten er in totaal in de EpiPen?  
 
 
 ## 4.	Kalibratielijn doorrekenen voor colchicine
@@ -72,9 +73,9 @@ Geef een pipeteer schema voor de kalibratielijn.
 ## 6. Insuline kalibratielijn
 Een te kort aan insuline kan leiden tot diabetes. Zodra een patiënt een afwijking aan de alvleesklier heeft wordt er elk half jaar een insuline bepaling uitgevoerd. Dit is een immunoassay analyse met een kalibratielijn. De stock oplossing heeft een concentratie van 0.2 mg/mL en de lijn moet 5 punten (incl. blanco) bevatten met als maximale concentratie 0.2 mg/mL. Van elke standaard wordt er 1 mL gemaakt
 
-a.	Geef een pipeteerschema voor de 5 standaarden.
+a.	Geef een pipeteerschema voor de 5 standaarden.  
 
-b.	Minimaal kun je 1 mg afwegen op een vijf-decimalen balans. Je kunt daarom niet recht-streeks 0.2 mg afwegen. Hoe zou je de stockoplossing maken?
+b.	Minimaal kun je 1 mg afwegen op een vijf-decimalen balans. Je kunt daarom niet rechtstreeks 0.2 mg afwegen. Hoe zou je de stockoplossing maken?
 
 
 
