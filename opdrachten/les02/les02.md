@@ -91,7 +91,7 @@ Pipetteer daarvoor:  0 - 0.025 – 0.050 – 0.100 – 0.200 - 0.400 en 0.800 ml
 Hieronder staat de standaard additie kalibratielijn voor een kwantitatieve analyse van mangaan in een bepaald gesteente. 25 gram steen werd opgelost in 100 ml oplosmiddel. Hieruit is 2 ml geneu-traliseerd in 200 ml $H_2O$ tot het gebruikte monster. Elke kolf bevat 25 ml van het monster en 0; 1,00; 2,00; 3,00; 4,00 en 5,00 ml van een 100,6 mg/l standaard $Mn^{2+}$. Alle kolven zijn aangevuld tot 50,00 ml. 
 $S_{spike}$ = signaal 
 $V_{std}$ = volume van standaard in elk monster 
-De vergelijking van de regressielijn 
+De vergelijking van de regressielijn:  
 y = 0,0854x + 0,1478
 
 ![figure 1](./pics/fig1.png)
