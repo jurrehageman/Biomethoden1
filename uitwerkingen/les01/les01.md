@@ -40,15 +40,15 @@ Dus 1/6 mol
 
 $n = \frac{m}{M_w}$ dus:  
 $m = m * M_w$  
-$M_w\;glucose = 180,156\ g/mol$  
+$M_w\ glucose = 180,156\ g/mol$  
 $m = 0,167 * 180,156 = 30,09\ g$  
 
 ### Opgave 1c
 
 Hoeveelheid zout voor 100 mL 20 mM NaCl oplossing:  
 
-$Mw NaCl = 58,44\ g/mol$  
-$20 mM = 20\ mmol/l$  
+$Mw\ NaCl = 58,44\ g/mol$  
+$20\ mM = 20\ mmol/l$  
 
 Voor 100 ml dus:  
 
@@ -65,7 +65,7 @@ $m = 2 * 58,44 = 116,88\ mg = 0,117\ g$
 
 aantal cellen lichaam: $1·10^{12}$  
 $Mw\ ricine =  60000\ a.m.e.$  
-$massa\ ricine = 0,30 mg = 0,3\cdot10^{-3}\ g$  
+$massa\ ricine = 0,30\ mg = 0,3\cdot10^{-3}\ g$  
 $N_A = 6,02214\cdot10^{23}$  
 
 Eerst het aantal moleculen ricine berekenen:  
