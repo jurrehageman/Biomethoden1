@@ -9,7 +9,7 @@
 
 
 ## 1. Eén-punts kalibratie
-Er wordt een analyse uitgevoerd om het kopergehalte in water te bepalen. De blanco oplossing geeft een intensiteit van 0,2. Een 100 ppm $Cu^{2+}$ oplossing is gemeten onder dezelfde omstandighe-den en heeft een intensiteit van 18,4. Als laatste wordt er een monster gemeten met een onbeken-de concentratie. Hiervan is de emissie intensiteit 12,7.
+Er wordt een analyse uitgevoerd om het kopergehalte in water te bepalen. De blanco oplossing geeft een intensiteit van 0,2. Een 100 ppm $Cu^{2+}$ oplossing is gemeten onder dezelfde omstandigheden en heeft een intensiteit van 18,4. Als laatste wordt er een monster gemeten met een onbekende concentratie. Hiervan is de emissie intensiteit 12,7.
 
 Bereken concentratie koper in het watermonster.
 
@@ -37,7 +37,7 @@ a.	Bepaal de concentratie natrium in het monster met behulp van een externe kali
 b.	Bepaal de concentratie natrium in het monster met behulp van een interne kalibratielijn
 c.	Geef een pipeteerschema en de concentratie van de stock-oplossing voor deze kalibratielijn
 d.	De natriumstandaard wordt gemaakt met NaCl, bereken hoeveel je moet afwegen om 250 mL te maken.
-e.	Heb je voor deze lijn een pre-stock nodig? Minder dan 50 mg kun je niet nauwkeurig afwe-gen op een 4 decimalen balans.
+e.	Heb je voor deze lijn een pre-stock nodig? Minder dan 50 mg kun je niet nauwkeurig afwegen op een 4 decimalen balans.
 
 
 ## 4. Standaard additie 1
