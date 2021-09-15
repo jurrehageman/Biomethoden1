@@ -22,7 +22,7 @@ Bereken de $Na^+$ concentratie van het natriummonster.
 
 
 ## 3.	Interne en externe standaard kalibratie
-De concentratie natrium bepaald met lithium (1000 ppm) als interne standaard. De volgende inten-siteiten zijn uit de meting gekomen:
+De concentratie natrium bepaald met lithium (1000 ppm) als interne standaard. De volgende intensiteiten zijn uit de meting gekomen:
 
 |Conc   Na (ppm)|Intensiteit Na|Intensiteit Li|
 |--------------:|-------------:|:------------:|
@@ -42,7 +42,7 @@ e.	Heb je voor deze lijn een pre-stock nodig? Minder dan 50 mg kun je niet nauwk
 
 ## 4. Standaard additie 1
 Bij een methode waar de fosfaatconcentratie in urine wordt bepaald, wordt gebruik gemaakt van standaardadditie. De opwerking is erg simpel: 2 ml urine wordt verdund met water tot 100 mL.  
-25 mL monsteroplossing wordt gelijk gemeten met een UV spectrometer en de absorptie is 0,428. Daarnaar wordt aan 25 mL monster nog 1 mL 0,05 mg  fosfaatoplossing toegevoegd. Deze oplos-sing geeft een absorptie van 0,517.
+25 mL monsteroplossing wordt gelijk gemeten met een UV spectrometer en de absorptie is 0,428. Daarnaar wordt aan 25 mL monster nog 1 mL 0,05 mg  fosfaatoplossing toegevoegd. Deze oplossing geeft een absorptie van 0,517.
 
 Bereken de concentratie fosfaat in urine.
 
@@ -88,7 +88,7 @@ Pipetteer daarvoor:  0 - 0.025 – 0.050 – 0.100 – 0.200 - 0.400 en 0.800 ml
 
 
 ## 6. Standaard additie 3
-Hieronder staat de standaard additie kalibratielijn voor een kwantitatieve analyse van mangaan in een bepaald gesteente. 25 gram steen werd opgelost in 100 ml oplosmiddel. Hieruit is 2 ml geneu-traliseerd in 200 ml $H_2O$ tot het gebruikte monster. Elke kolf bevat 25 ml van het monster en 0; 1,00; 2,00; 3,00; 4,00 en 5,00 ml van een 100,6 mg/l standaard $Mn^{2+}$. Alle kolven zijn aangevuld tot 50,00 ml.   
+Hieronder staat de standaard additie kalibratielijn voor een kwantitatieve analyse van mangaan in een bepaald gesteente. 25 gram steen werd opgelost in 100 ml oplosmiddel. Hieruit is 2 ml geneutraliseerd in 200 ml $H_2O$ tot het gebruikte monster. Elke kolf bevat 25 ml van het monster en 0; 1,00; 2,00; 3,00; 4,00 en 5,00 ml van een 100,6 mg/l standaard $Mn^{2+}$. Alle kolven zijn aangevuld tot 50,00 ml.   
 $S_{spike}$ = signaal  
 $V_{std}$ = volume van standaard in elk monster  
 De vergelijking van de regressielijn:  
