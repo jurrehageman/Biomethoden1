@@ -4,6 +4,7 @@
 
 # Uitwerkingen les 2
 
+
 ---
 
 ### Opgave 1
