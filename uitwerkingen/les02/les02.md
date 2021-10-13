@@ -51,10 +51,17 @@ $C_{monster}=\frac{54,5}{21,3}\cdot\frac{46,7}{35,5}\cdot5\ =\ 16,8\ ppm$
 Zie [Excel File](./files/les2_uitwerkingen.xlsx) voor deel a, b en c.  
 
 d.  
-$100\ ppm = 100\ mg/kg = 100\ mg/l$  
-Nodig: 250 ml = 0,25 l dus 25 mg  
+$100\ ppm = 100\ mg/kg = 100\ mg/l$   
+Molmassa $Na^+$ = 22,99 g/mol  
+Molmassa $NaCl$ = 58,44 g/mol  
+Dus natrium is 0,39 deel  
+Dus:  
+$m = \frac{1}{0,39} \cdot 100 = 256\ mg$
+
+Nodig: 250 ml = 0,25 l dus $0,25 \cdot 256 = 64\ mg$
+  
 e.
-25 mg < 50 mg dus er is een pre-stock nodig.  
+64 mg > 50 mg dus er is geen pre-stock nodig.  
 
 ---
 
