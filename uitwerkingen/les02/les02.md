@@ -51,8 +51,19 @@ $C_{monster}=\frac{54,5}{21,3}\cdot\frac{46,7}{35,5}\cdot5\ =\ 16,8\ ppm$
 Zie [Excel File](./files/les2_uitwerkingen.xlsx) voor deel a, b en c.  
 
 d.  
+Merk op dat we niets van doen hebben met de concentratie Lithium.  
+We gebruiken lithium alleen als interne standaard waarbij steeds hetzelfde volume lithium oplossing wordt toegevoegd.  
+Er kan dan gecorrigeerd worden voor verschillen in signaal van de interne standaard.  
+We verwachten uiteraard hetzelfde signaal van de interne standaard voor elk monster.  
+Het gaat bij deze opdracht dus om de concentratie Natrium.  
+Kies zelf een concentratie waarbij je redelijk makkelijk kan verdunnen naar de hoogste concentratie van de kallibratielijn. Bij opgave 3C zijn we uit gegaan van een stockoplossing van 100 ppm Na.  
+Dit is een handige concentratie want het is 10 maal geconcentreerder dan de hoogste concentratie van de kallibratielijn (deze is 10 ppm).  
+Dus als stock is voor 100 ppm Na ionen gekozen.  
 $100\ ppm = 100\ mg/kg = 100\ mg/l$   
 Molmassa $Na^+$ = 22,99 g/mol  
+Echter, we kunnen geen losse Na ionen toevoegen.  
+We gebruiken NaCl. Uiteraard hebben de chloor ionen ook massa.  
+We moeten hiervoor corrigeren.  
 Molmassa $NaCl$ = 58,44 g/mol  
 Dus natrium is 0,39 deel  
 Dus:  
