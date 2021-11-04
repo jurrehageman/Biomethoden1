@@ -113,6 +113,7 @@ De regel is dat we de sequentie noteren van N-terminus naar C-terminus dus:
 
 P[S/D][S/D]VVN?  
 
+
 ---
 
 ### Opgave 3
