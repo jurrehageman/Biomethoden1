@@ -140,7 +140,7 @@ $T = 10^{-A} = 10^{-1,16} = 0,069 (fractie)$
 $T = 0,069 \cdot 100 = 6,9\%$  
 
 #### opgave c
-Omdat 2 * 50 mL wordt toegevoegd:  
+Omdat 50 mL L wordt toegevoegd aan 50 mL $Zn^{2+}$ zal de concentratie $Zn^{2+}$ met een factor 2 afnemen:  
 $c = 0,5 \cdot 1,60 \cdot 10^{-4} = 8,0 \cdot 10^{-5}\ mol/L$  
 
 $A = \epsilon \cdot c \cdot b$  
