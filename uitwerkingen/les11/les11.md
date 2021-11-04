@@ -63,7 +63,7 @@ Zie ook de Excel file.
 |y8	            |852,5  |	           |           |
 
 Let op dat y6 mist.  
-We weten alleen dat $\Delta m/z$ voor y7 - y5 = 220.  
+We weten alleen dat $\Delta m/z$ voor y7 - y5 = 202.  
 
 We weten daarnaast ook de $\Delta m/z$ voor b7-b6:  
 $\Delta m/z _{\ b7-b6} = 667,5 - 553,5 = 114$  
@@ -91,10 +91,10 @@ Deze kunnen we invullen:
 |y8	        |852,5|	           |         |            |b1   |          |
 
 Verder weten we:  
-We weten alleen dat $\Delta m/z$ voor y7 - y5 = 220.  
+We weten alleen dat $\Delta m/z$ voor y7 - y5 = 202.  
 
 Kijken wat past (puzzelen)  
-Welke twee aminozuren zijn samen 220 Da?  
+Welke twee aminozuren zijn samen 202 Da?  
 Of met computer programmatje (hoef je uiteraard niet te kunnen):  
 
 ![polarity](./pics/fig1.PNG)  
