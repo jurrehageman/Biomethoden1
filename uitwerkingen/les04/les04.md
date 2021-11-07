@@ -68,7 +68,7 @@ De selectiviteit (scheiden van de twee stoffen op de kolom) van het fasensysteem
 #### opgave a
 
 100% methode  
-Zie ook de [Excel file](./files/les3_uitwerkingen.xlsx)  
+Zie ook de [Excel file](./files/les4_uitwerkingen.xlsx)  
 
 | Stof          | Oppervlak     | Perc. in %  |
 | ------------- |:-------------:| -----------:|
@@ -80,7 +80,7 @@ Zie ook de [Excel file](./files/les3_uitwerkingen.xlsx)
 #### opgave b
 
 Externe standaard methode  
-Zie ook de [Excel file](./files/les3_uitwerkingen.xlsx) 
+Zie ook de [Excel file](./files/les4_uitwerkingen.xlsx) 
 
 |Naam           |Oppervlak monster (mm^2)|Oppervlak standaard (mm^2)|Massa standaard (mg)|Massa monster (mg)|
 | ------------- |:----------------------:| ------------------------:|:------------------:|-----------------:|
