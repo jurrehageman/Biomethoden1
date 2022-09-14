@@ -56,7 +56,7 @@ Stockoplossing =
 
 
 ## 5. Ethanol kalibratielijn
-Er zijn verschillende ethanol gehalten in wijn te verkrijgen en je wilt onderzoek of rode wijn gemiddeld een hoger concentratie ethanol bevatten in vergelijking met witte wijnen. Gemiddeld heeft wijn een ethanolgehalte van 12%. Het ethanol gehalte mag niet hoger dan 40% (mag wel lager) in de kalibratielijn. Je gebruikt 99.7% ethanol om de kalibratielijn te maken en 10 mL maatkolven.
+De concentratie ethanol in wijn kan variëren. Je wilt onderzoeken of rode wijn gemiddeld een hogere concentratie ethanol bevat in vergelijking met witte wijn. Gemiddeld heeft wijn een ethanolgehalte van 12%. Het ethanol gehalte mag niet hoger dan 40% (mag wel lager) in de kalibratielijn. Je gebruikt 99.7% ethanol om de kalibratielijn te maken en 10 mL maatkolven.
 
 Geef een pipeteer schema voor de kalibratielijn.
 
