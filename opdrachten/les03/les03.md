@@ -10,7 +10,7 @@
 ---
 
 ## 1.	Chromatogram interpeteren
-Het onderstaande chromatogram is opgenomen op een LC-systeem (vloeistof chromatograaf). Met een C18 kolom van 15,7 cm lang. Tweecomponenten zijn hierbij gescheiden (A en B). De dode tijd van de  kolom is in een andere meting gemeten met Uracil en komt uit om 0,46 min.
+Het onderstaande chromatogram is opgenomen op een LC-systeem (vloeistof chromatograaf). Met een C18 kolom van 15,7 cm lang. Twee componenten zijn hierbij gescheiden (A en B). De dode tijd van de  kolom is in een andere meting gemeten met Uracil en komt uit om 0,46 min.
 
 ![Figuur 1](./pics/fig1.png)
 
@@ -38,13 +38,13 @@ Na een meting van vier componenten op de LC zijn de volgende retentietijden en p
 |C6	|4,9      | 1,04  |
 |C7	|6,1      | 1,58  |
 
-a.	Bereken de netto retentietijden van de twee componenten  
-b.	Bereken de retentiefactor van de twee componenten  
-c.	Bereken de selectiviteitsfactor  
+a.	Bereken de netto retentietijden van alle componenten  
+b.	Bereken de retentiefactor van alle componenten  
+c.	Bereken de selectiviteitsfactor tussen de componenten (C4 en C5, C5 en C6, C6 en C7)  
 d.	Bereken het gemiddelde aantal schotels van de kolom  
 e.	Bereken het aantal schotel per meter  
 f.	Bereken de gemiddelde schotelhoogte in de kolom  
-g.	Bereken de resolutie  
+g.	Bereken de resolutie tussen de componenten (C4 en C5, C5 en C6, C6 en C7)  
 
 
 ---

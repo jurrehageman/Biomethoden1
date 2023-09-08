@@ -21,13 +21,13 @@ c.	Hoeveel zout moet er worden afgewogen voor 100 mL 20 mM $NaCl$ oplossing?
 
 
 ## 2.	Complexere molberekening 1
-Ricine is een stof die voornamelijk bekend staat als vergif. Het is een eiwit dat bestaat uit macromoleculen met een molecuulmassa van 60000 a.m.e. (u). Elk molecuul omvat twee deelketens A en B genaamd, waarvan de ene zich aan de bestanddelen van de celwand hecht en zorgt dat de stof in een cel wordt opgenomen, terwijl de andere keten een cel - die een ricine molecuul heeft opgenomen - deactiveert om eiwitten te synthetiseren, waardoor de cel sterft. Zelfs in kleine hoeveelheden is ricine in zuivere toestand dodelijk. Ons lichaam bevat ca. $10^{12}$ cellen.  
+Ricine is een stof die voornamelijk bekend staat als vergif. Het is een eiwit dat bestaat uit macromoleculen met een molecuulmassa van 60000 a.m.e. (u). Elk molecuul omvat twee deelketens, A en B genaamd, waarvan de ene zich aan de bestanddelen van de celwand hecht en zorgt dat de stof in een cel wordt opgenomen, terwijl de andere keten een cel - die een ricine molecuul heeft opgenomen - deactiveert om eiwitten te synthetiseren, waardoor de cel sterft. Zelfs in kleine hoeveelheden is ricine in zuivere toestand dodelijk. Ons lichaam bevat ca. $10^{12}$ cellen.  
 
 Bereken welk percentage van deze cellen (in principe) kan worden vernietigd door 0,30 mg ricine indien 1 op de miljoen ricinemoleculen er in slaagt een cel binnen te dringen.  
 
 ## 3.	Complexere molberekening 2
-Sommige mensen zijn zeer allergisch voor bijvoorbeeld een geneesmiddel, pinda’s of bijengif. Wan-neer deze mensen blootgesteld worden aan zeer kleine hoeveelheden van deze stof, kunnen ze direct zeer ernstige klachten ontwikkelen, die levensbedreigend zijn. Daarom dragen deze mensen soms een EpiPen bij zich. In de EpiPen zit adrenaline, dat de effecten van de allergie tegen gaat. Bij een allergi-sche reactie wordt de adrenaline in een spier in het been gespoten.  
-In de EpiPen zit 0,300 ml van een oplossing met 1,00 mg/ml adrenaline.  
+Sommige mensen zijn zeer allergisch voor een geneesmiddel, pinda’s of bijengif. Wanneer deze mensen blootgesteld worden aan zeer kleine hoeveelheden van deze stof, kunnen ze direct zeer ernstige klachten ontwikkelen, die levensbedreigend zijn. Daarom dragen deze mensen soms een EpiPen bij zich. In een EpiPen zit adrenaline. Adrenaline gaat de effecten van een allergie tegen. Bij een allergische reactie wordt de adrenaline in een spier in het been gespoten.  
+In een EpiPen zit 0,300 ml van een oplossing met 1,00 mg/ml adrenaline.  
 De structuurformule van adrenaline is: $C_9H_{13}NO_3$.  
 Gegeven: $NA\ =\ 6,022\cdot10^{23}$.  
 
@@ -56,7 +56,7 @@ Stockoplossing =
 
 
 ## 5. Ethanol kalibratielijn
-Er zijn verschillende ethanol gehalte in wijn te verkrijgen en je wilt onderzoek of rode wijn gemid-deld en hoger concentratie ethanol bevatten in vergelijking met witte wijnen. Gemiddeld heeft wijn een ethanolgehalte van 12%. De ethanol gehalte mag niet hoger dan 40% (mag wel lager) in de kalibratielijn. Je gebruikt 99.7% ethanol om de kalibratielijn te maken en 10 mL maatkolven.
+De concentratie ethanol in wijn kan variëren. Je wilt onderzoeken of rode wijn gemiddeld een hogere concentratie ethanol bevat in vergelijking met witte wijn. Gemiddeld heeft wijn een ethanolgehalte van 12%. Het ethanol gehalte mag niet hoger dan 40% (mag wel lager) in de kalibratielijn. Je gebruikt 99.7% ethanol om de kalibratielijn te maken en 10 mL maatkolven.
 
 Geef een pipeteer schema voor de kalibratielijn.
 
@@ -71,7 +71,7 @@ Geef een pipeteer schema voor de kalibratielijn.
 |Blanco|        |           |10           |
 
 ## 6. Insuline kalibratielijn
-Een te kort aan insuline kan leiden tot diabetes. Zodra een patiënt een afwijking aan de alvleesklier heeft wordt er elk half jaar een insuline bepaling uitgevoerd. Dit is een immunoassay analyse met een kalibratielijn. De stock oplossing heeft een concentratie van 0.2 mg/mL en de lijn moet 5 punten (incl. blanco) bevatten met als maximale concentratie 0.2 mg/mL. Van elke standaard wordt er 1 mL gemaakt
+Een te kort aan insuline kan leiden tot diabetes. Zodra een patiënt een afwijking aan de alvleesklier heeft, wordt er elk half jaar een insuline bepaling uitgevoerd. Dit is een immunoassay analyse met een kalibratielijn. De stock oplossing heeft een concentratie van 0.2 mg/mL en de lijn moet 5 punten (incl. blanco) bevatten met als maximale concentratie 0.2 mg/mL. Van elke standaard wordt er 1 mL gemaakt
 
 a.	Geef een pipeteerschema voor de 5 standaarden.  
 

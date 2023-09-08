@@ -28,7 +28,7 @@ De concentratie natrium bepaald met lithium (1000 ppm) als interne standaard. De
 |--------------:|-------------:|:------------:|
 |0,1            |0,11          |86            |
 |0,5            |0,52          |80            |
-|1,0            |1,8           |12            |
+|1,0            |1,8           |128           |
 |5,0            |5,9           |91            |
 |10,0           |9,5           |73            |
 |Monster        |4,4           |95            |
