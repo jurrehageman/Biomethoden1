@@ -60,7 +60,7 @@ $specific\ activity = 5,70588\cdot10^{-9}\ mol/min/mg$
 
 $specific\ activity = 5,71\cdot10^{-3}\ \mu mol/min/mg$
 
-$specific\ activity = 5,71\cdot10^{-3}\ units/min/mg$
+$specific\ activity = 5,71\cdot10^{-3}\ units/mg$
 
 --- 
 
